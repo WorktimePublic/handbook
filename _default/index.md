@@ -2,7 +2,7 @@
 layout: default
 title: Worktime Handbook
 lang: en
-description: All Remote Team - Awesome
+description: All Remote Team
 ---
 
 ## All Remote Team
